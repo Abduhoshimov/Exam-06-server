@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "email": "muhammadyusufabduhoshimov@gmail.com",
+      "password": "$2a$10$9wOPMB9847j/hI0vCNIUlesE3uqWDAco7irtE5sz8FtjYk.M5B9zi",
+      "name": "Muhammadyusuf",
+      "location": "Tashkent",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Ko’chmas mulk",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/home.svg"
+    },
+    {
+      "id": "2",
+      "name": "Ish",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/work.svg"
+    },
+    {
+      "id": "3",
+      "name": "Xobbi",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/xobbi.svg"
+    },
+    {
+      "id": "4",
+      "name": "Mebel",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/mebel.svg"
+    },
+    {
+      "id": "5",
+      "name": "Transport",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/transport.svg"
+    },
+    {
+      "id": "6",
+      "name": "Elektr jihozlari",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/electr.svg"
+    },
+    {
+      "id": "7",
+      "name": "Bolalar uchun",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/bike.svg"
+    },
+    {
+      "id": "8",
+      "name": "Moda va stil",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/style.svg"
+    },
+    {
+      "id": "9",
+      "name": "Xizmatlar",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/service.svg"
+    },
+    {
+      "id": "10",
+      "name": "Hayvonlar",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/dog.svg"
+    },
+    {
+      "id": "11",
+      "name": "Tekinga beraman",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/exchange.svg"
+    },
+    {
+      "id": "12",
+      "name": "Ayirboshlash",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/132e8f14b62c9c01be8ec1297d45eb40bfe41c7f/OXO/category/surprice.svg"
+    },
+    {
+      "id": "13",
+      "name": "Yordam Markazi",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/132e8f14b62c9c01be8ec1297d45eb40bfe41c7f/OXO/category/message.svg"
+    }
+  ],
+  "all": [],
+  "home": [],
+  "hobbi": [],
+  "garden": [],
+  "cars": [],
+  "texno": [],
+  "children-for": [],
+  "service": [],
+  "animals": [],
+  "free": [],
+  "exchange": []
+}
